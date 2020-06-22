@@ -1,0 +1,12 @@
+ru:
+  model:
+    errors:
+      user:
+        name:
+          format: Укажите имя, используя буквы, цифры или символ подчёркивания
+      user_sessions:
+
+  services:
+    user_sessions:
+      create_service:
+        unauthorized: Сессия не может быть создана

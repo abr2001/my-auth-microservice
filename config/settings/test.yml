@@ -1,0 +1,5 @@
+db:
+  database: auth_microservice_test
+  max_connections: 1
+secrets:
+  key: 2bbdffd5675b02a480d50c35bf396ef36b0c8f82286733de89cb873efc94cd06

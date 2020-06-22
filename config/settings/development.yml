@@ -1,0 +1,4 @@
+db:
+  database: auth_microservice_development
+secrets:
+  key: 14375f489ac0259973b1a4616fa828517eb8a34836964bdeac6705f8f0987f59
