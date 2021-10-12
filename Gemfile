@@ -12,7 +12,7 @@ gem 'fast_jsonapi', '~> 1.5'
 gem 'i18n', '~> 1.8.2'
 gem 'jwt', '~> 2.2.1'
 gem 'pg', '~> 1.2.3'
-gem 'puma', '~> 4.3.0'
+gem 'puma', '~> 4.3.9'
 gem 'rake', '~> 13.0.1'
 
 gem 'sequel', '~> 5.32.0'
