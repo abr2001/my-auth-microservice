@@ -18,8 +18,8 @@ gem 'rake', '~> 13.0.1'
 gem 'sequel', '~> 5.32.0'
 gem 'sequel_secure_password'
 
-gem 'sinatra', '~> 2.0.0', require: 'sinatra/base'
-gem 'sinatra-contrib', '~> 2.0.0'
+gem 'sinatra', '~> 2.2.0', require: 'sinatra/base'
+gem 'sinatra-contrib', '~> 2.2.0'
 
 gem 'pry'
 gem 'pry-byebug'
