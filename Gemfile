@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
 
-gem 'activesupport', '~> 6.0.0', require: false
+gem 'activesupport', '~> 6.1.7', require: false
 gem 'config', '~> 2.2.1'
 
 gem 'dry-initializer', '~> 3.0.3'
